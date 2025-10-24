@@ -1,0 +1,51 @@
+/* Selector de Etiqueta */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9; /* Color de fondo */
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Selector de Etiqueta */
+header {
+    background-color: #007bff; /* Color de fondo */
+    color: white; /* Color de fuente */
+    padding: 1em 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Selector de Clase */
+.boton-principal {
+    background-color: #28a745; /* Color del botón */
+    color: white;
+    padding: 10px 20px; /* Padding (espaciado interior) */
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+/* Estilos de navegación */
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Selector de ID */
+#bienvenida {
+    padding: 20px;
+    background-color: #e9ecef;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
